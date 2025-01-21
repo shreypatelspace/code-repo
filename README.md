@@ -1,1 +1,3 @@
 # code-repo
+
+print("Hello")
